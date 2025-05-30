@@ -83,6 +83,6 @@ http://localhost:3000
 
 ## 🤝 Autor
 
-Desenvolvido por **[Seu Nome Aqui]** para o desafio técnico fullstack.
+Desenvolvido por Marcos Capiberibe para o desafio técnico fullstack.
 
 ---
