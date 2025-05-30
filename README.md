@@ -9,8 +9,6 @@ Este é o projeto **frontend** desenvolvido em **Next.js + TypeScript + Styled C
 - [Axios](https://axios-http.com/)
 - [Styled-components](https://styled-components.com/)
 - [React Hook Form](https://react-hook-form.com/)
-- [Zod](https://zod.dev/)
-- [Phosphor Icons](https://phosphoricons.com/)
 
 ---
 
